@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="dogtakes.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>dogtakes.com/celebrity-news/</loc>
+		<loc>/celebrity-news/</loc>
 		<lastmod>2025-02-26T09:24:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/celebrity-lifestyle/</loc>
+		<loc>/celebrity-lifestyle/</loc>
 		<lastmod>2025-02-26T09:24:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/exclusive-videos/</loc>
+		<loc>/exclusive-videos/</loc>
 		<lastmod>2025-02-26T09:24:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/exclusive-pics/</loc>
+		<loc>/exclusive-pics/</loc>
 		<lastmod>2025-02-26T09:24:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/style-and-fashion/</loc>
+		<loc>/style-and-fashion/</loc>
 		<lastmod>2025-02-26T09:24:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/exclusive-videos-pics/</loc>
+		<loc>/exclusive-videos-pics/</loc>
 		<lastmod>2025-02-26T09:24:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/tstyle-fashion/</loc>
+		<loc>/tstyle-fashion/</loc>
 		<lastmod>2025-02-26T09:24:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/celibrity-news-pics/</loc>
+		<loc>/celibrity-news-pics/</loc>
 		<lastmod>2025-02-26T09:24:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/enter-mega/</loc>
+		<loc>/enter-mega/</loc>
 		<lastmod>2025-02-26T09:24:16+00:00</lastmod>
 	</url>
 </urlset>

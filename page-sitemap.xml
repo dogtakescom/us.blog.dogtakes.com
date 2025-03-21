@@ -1,125 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="dogtakes.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>dogtakes.com/</loc>
+		<loc>/</loc>
 		<lastmod>2025-03-20T09:36:12+00:00</lastmod>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2025/03/Women.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/Women.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-5.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-4.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-3.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-5.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-4.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-3.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-5.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Group-198.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Group-198.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Group-146.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Group-146.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-5.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Group-198.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Group-198.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Group-146.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Group-146.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/blog-5.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/0d30b335-home-hero-image1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Group-198.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Group-198.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Group-146.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Group-146.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Mask-Group.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>dogtakes.com/wp-content/uploads/2025/03/Dog-cat.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/Dog-cat.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>dogtakes.com/about-en_us/</loc>
+		<loc>/about-en_us/</loc>
 		<lastmod>2025-03-19T07:44:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/terms-en_us/</loc>
+		<loc>/terms-en_us/</loc>
 		<lastmod>2025-03-10T08:18:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/privacy-policy-en_us/</loc>
+		<loc>/privacy-policy-en_us/</loc>
 		<lastmod>2025-03-10T08:18:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>dogtakes.com/contact-en_us/</loc>
+		<loc>/contact-en_us/</loc>
 		<lastmod>2025-03-10T08:17:43+00:00</lastmod>
 	</url>
 </urlset>
