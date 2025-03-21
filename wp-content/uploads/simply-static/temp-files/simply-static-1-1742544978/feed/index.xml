@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Dog Takes &#8211; DogTakes</title>
-	<atom:link href="www.dogtakes.com/author/1d3320d/feed/" rel="self" type="application/rss+xml" />
+	<title>DogTakes</title>
+	<atom:link href="www.dogtakes.com/feed/" rel="self" type="application/rss+xml" />
 	<link>www.dogtakes.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Feb 2025 09:24:27 +0000</lastBuildDate>

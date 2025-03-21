@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Enter Mega &#8211; DogTakes</title>
-	<atom:link href=".//enter-mega/feed/" rel="self" type="application/rss+xml" />
-	<link>.//</link>
+	<atom:link href="www.dogtakes.com/enter-mega/feed/" rel="self" type="application/rss+xml" />
+	<link>www.dogtakes.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Feb 2025 09:24:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
 		<title>Back to school fashion of celeb kids … Grab some outfit ideas!</title>
-		<link>.//back-to-school-fashion-of-celeb-kids-grab-some-outfit-ideas-2/</link>
-					<comments>.//back-to-school-fashion-of-celeb-kids-grab-some-outfit-ideas-2/#respond</comments>
+		<link>www.dogtakes.com/back-to-school-fashion-of-celeb-kids-grab-some-outfit-ideas-2/</link>
+					<comments>www.dogtakes.com/back-to-school-fashion-of-celeb-kids-grab-some-outfit-ideas-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Dog Takes]]></dc:creator>
 		<pubDate>Wed, 26 Feb 2025 09:24:16 +0000</pubDate>
@@ -34,7 +34,7 @@
 					<description><![CDATA[In dignissim diam id massa sagittis congue. Duis maximus lacus in velit suscipit, sed placerat nisi lacinia. Fusce efficitur erat nec ligula tincidunt vehicula in a erat. Morbi tempor nunc vitae justo congue, quis consectetur leo facilisis. Aenean tristique lacinia elementum. Donec turpis felis, finibus faucibus semper quis, luctus non erat.]]></description>
 										<content:encoded><![CDATA[In dignissim diam id massa sagittis congue. Duis maximus lacus in velit suscipit, sed placerat nisi lacinia. Fusce efficitur erat nec ligula tincidunt vehicula in a erat. Morbi tempor nunc vitae justo congue, quis consectetur leo facilisis. Aenean tristique lacinia elementum. Donec turpis felis, finibus faucibus semper quis, luctus non erat.]]></content:encoded>
 					
-					<wfw:commentRss>.//back-to-school-fashion-of-celeb-kids-grab-some-outfit-ideas-2/feed/</wfw:commentRss>
+					<wfw:commentRss>www.dogtakes.com/back-to-school-fashion-of-celeb-kids-grab-some-outfit-ideas-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

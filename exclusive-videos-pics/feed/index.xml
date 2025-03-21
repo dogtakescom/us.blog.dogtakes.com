@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Exclusive videos &amp; pics &#8211; DogTakes</title>
-	<atom:link href=".//exclusive-videos-pics/feed/" rel="self" type="application/rss+xml" />
-	<link>.//</link>
+	<atom:link href="www.dogtakes.com/exclusive-videos-pics/feed/" rel="self" type="application/rss+xml" />
+	<link>www.dogtakes.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Feb 2025 09:24:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
 		<title>Best videos fromworld concerttour in one&#8230;</title>
-		<link>.//best-videos-fromworld-concerttour-in-one-2/</link>
-					<comments>.//best-videos-fromworld-concerttour-in-one-2/#respond</comments>
+		<link>www.dogtakes.com/best-videos-fromworld-concerttour-in-one-2/</link>
+					<comments>www.dogtakes.com/best-videos-fromworld-concerttour-in-one-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Dog Takes]]></dc:creator>
 		<pubDate>Wed, 26 Feb 2025 09:24:16 +0000</pubDate>
@@ -32,7 +32,7 @@
 					<description><![CDATA[Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus.]]></description>
 										<content:encoded><![CDATA[Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus.]]></content:encoded>
 					
-					<wfw:commentRss>.//best-videos-fromworld-concerttour-in-one-2/feed/</wfw:commentRss>
+					<wfw:commentRss>www.dogtakes.com/best-videos-fromworld-concerttour-in-one-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
