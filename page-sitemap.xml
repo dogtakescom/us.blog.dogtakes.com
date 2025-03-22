@@ -22,10 +22,10 @@
 			<image:loc>/wp-content/uploads/2023/09/blog-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/blog-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/blog-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
@@ -43,10 +43,10 @@
 			<image:loc>/wp-content/uploads/2023/09/blog-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/blog-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/blog-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/blog-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/blog-1.jpg</image:loc>
@@ -107,12 +107,16 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-en_us/</loc>
-		<lastmod>2025-03-19T07:44:40+00:00</lastmod>
+		<loc>/terms-en_us/</loc>
+		<lastmod>2025-03-22T10:16:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/terms-en_us/</loc>
-		<lastmod>2025-03-10T08:18:23+00:00</lastmod>
+		<loc>/cookies-en_us/</loc>
+		<lastmod>2025-03-22T09:45:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/about-en_us/</loc>
+		<lastmod>2025-03-19T07:44:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/privacy-policy-en_us/</loc>
